@@ -3,13 +3,13 @@
 ---
 
 **Nama : Febri Jumawan**
--
+
 **NIM : 311910034**
--
+
 **Kelas : TI.19.F1**
--
+
 ***Berikut tampilan GUI setelah di running :***
--
+
 ![image](https://user-images.githubusercontent.com/57055098/117522242-6fe6e180-afdc-11eb-8d01-f2744f637d3d.png)
 
 **1. Nilai RGB**
