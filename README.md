@@ -39,4 +39,5 @@
 **7. Reset**
 
 *jika di klik tombol reset histogram hasil pemrosesan akan terhapus, sedangkan citra hasil proses akan kembali ke citra asli*
+
 ![image](https://user-images.githubusercontent.com/57055098/117522405-5eeaa000-afdd-11eb-8bbd-2ab0e3614cf2.png)
