@@ -1,14 +1,14 @@
 # UTSPengolahanCitra
-***Dosen Pengampu : Muhammad Najamuddin Dwi Miharja, S.Kom., M.Kom.***---
+***Dosen Pengampu : Muhammad Najamuddin Dwi Miharja, S.Kom., M.Kom.***___
 
-Nama : Febri Jumawan
-NIM : 311910034
-Kelas : TI.19.F1
+Nama : Febri Jumawan_
+NIM : 311910034_
+Kelas : TI.19.F1_
 
 **Berikut tampilan GUI setelah di running :**
 ![image](https://user-images.githubusercontent.com/57055098/117522242-6fe6e180-afdc-11eb-8d01-f2744f637d3d.png)
 
-**TNilai RGB**
+**Nilai RGB**
 ![image](https://user-images.githubusercontent.com/57055098/117522290-ac1a4200-afdc-11eb-9e14-42b41ecb282d.png)
 
 **Red Layer**
@@ -26,6 +26,6 @@ Kelas : TI.19.F1
 **Binary**
 ![image](https://user-images.githubusercontent.com/57055098/117522358-19c66e00-afdd-11eb-83be-679cdfcda06e.png)
 
-**Reset**
+**Reset**_
 jika di klik tombol reset histogram hasil pemrosesan akan terhapus, sedangkan citra hasil proses akan kembali ke citra asli
 ![image](https://user-images.githubusercontent.com/57055098/117522405-5eeaa000-afdd-11eb-8bbd-2ab0e3614cf2.png)
